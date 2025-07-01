@@ -1,0 +1,9 @@
+
+networkx
+numpy
+matplotlib
+scikit-learn
+keras
+tensorflow
+pandas
+    
