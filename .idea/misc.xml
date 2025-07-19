@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
-    <option name="sdkName" value="Python 3.12 (CRO-ULite)" />
+    <option name="sdkName" value="Python 3.13 (CRO-ULite)" />
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="CRO-ULite" project-jdk-type="Python SDK" />
 </project>
